@@ -1,0 +1,19 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+
+.photo.name {  display: inline-block;  
+               align-items: center ;}
+               
+               
+       p{ text-align: left ;
+             color: #BCBCBC;}
+       
+       
+       .container { margin: 4px;
+                        margin-right: 4px;
+                       margin-left: 4px; }
+                       
+      span{  height: 180px;
+                    width: 170px; 
+                   margin: 10px;}  
